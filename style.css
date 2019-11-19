@@ -26,6 +26,7 @@
 h3.summary {
 	font-family:Lucida Sans Unicode;
 	font-size: 50px;
+	color: white;
 }
 p.summaryp {
 	font-family:Lucida Sans Unicode;
@@ -92,6 +93,7 @@ img:hover {
   grid-column: 1/5;
   border: .5px black solid;
   opacity:0.5;
+  color:white;
 }
 p.linkp {
 	word-spacing: 100px;
